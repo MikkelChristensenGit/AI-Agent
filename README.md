@@ -21,7 +21,7 @@ This project implements an intelligent assistant that aids in data analysis and 
 - llm: OpenAI library for language model interactions.
 
 ## Usage
-1. Upon running the script, the assistant will prompt you to enter your query or command.
+1. Upon running "main.py", the assistant will prompt you to enter your query or command.
 2. Enter your query or command and press Enter.
 3. The assistant will process your input, perform the requested action, and provide the result.
 4. Repeat steps 1-3 for further interaction.
